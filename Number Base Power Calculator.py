@@ -1,4 +1,5 @@
 #!/usr/bin/python
+#Script designed by Kavier for individual purposes with no copyright infringement intended
 import os,time
 
 def log(results):
